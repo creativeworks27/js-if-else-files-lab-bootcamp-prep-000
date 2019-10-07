@@ -9,8 +9,6 @@ if (name === "Sussan"){
 
 if (height === "70"){
   console.log("The height is correct")
-}else {
-  console.log()
 }
 
 
